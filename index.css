@@ -1,0 +1,27 @@
+body{
+    background-image: url("./olympus.jpg");
+    background-size: cover
+    ;
+
+}
+
+h1{
+    color: gold;
+    width: 40pix;
+    height: 50pix;
+    
+}
+
+p{
+    color: goldenrod;
+    width: 20pix;
+    height: 25pix;
+    
+}
+
+a{
+    color: rgb(90, 77, 0);
+    width: 40pix;
+    height: 50pix;
+    
+}
